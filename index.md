@@ -37,7 +37,7 @@ These events either have an extra non-blue choice, or multiple stages or nuances
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | &frac14; | Clone bay | ...but madmen can kill, also risks 4 hull |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | &frac14; | Clone bay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS!** |
-| Send a shuttle (confused Mantis)](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
+| [Send a shuttle (confused Mantis)](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
 
 ## Hull damage events
 
