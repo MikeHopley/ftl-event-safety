@@ -44,7 +44,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | Text cue | Damage amount | Damage chance | Assessment |
 |----------|:-------------:|:-------------:|------------|
 | [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 hull | 1/3 | Good reward |
-| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull, 1 system | 1/2  | System damage + fight is risky |
+| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull, 1 system | 1/2  | **Risky.** System damage + fight |
 | ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull | 1/3 | Better, unless you **really** want the Mantis |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/4 | Worth it, with clone bay |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
