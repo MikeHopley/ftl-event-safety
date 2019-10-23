@@ -20,16 +20,16 @@ Whenever you **send your crew**, expect to lose them. So "boarding" is risky, bu
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | &#8533; | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
 | [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | &frac14; | - | Reverse aging, not dying, so can't clone |
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | &frac12; | Clone bay | Giant spiders can kill. No joke |
-| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | &frac12; | - | **Never** sell the space ponies! |
 | [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
 | [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | ⅕ | Clone bay | Manually search = danger. (Good reward) |
 
 ## Other crew death events
 
-These events have more stages or nuances.
+These events have more options, stages, or nuances.
 
 | Text cue | Crew death? | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
+| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | &frac12; | - | **Never** sell the space ponies! <sup>You monster</sup> |
 | [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | &frac12; | Clone bay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
 | [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is "safe", drone needs clone |
