@@ -20,3 +20,16 @@ These are simple binary choices. Is it safe to board that space station or not?
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/5 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
 | No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | 1/3 | Medbay 2 | **N**o **H**ails = **N**eeds **H**ealing |
+
+## Other crew death events
+
+These events either have an extra non-blue choice, or multiple stages. In the Smoldering Engi event, taking the Engi is "safe" because you always get the Engi.
+
+| Text cue | Crew death? | Medical counter | Aide-memoire |
+|----------|:-----------:|:---------------:|--------------|
+| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | *Send crew* means danger, fire = death |
+| [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
+| Smoldering Engi | "Safe" | Clone bay | Engi is "safe", drone needs clone |
+| [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
+| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/4 | Clone bay | ...but madmen can kill, also risks 4 hull |
+
