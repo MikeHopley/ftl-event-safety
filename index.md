@@ -53,3 +53,4 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | ...[defense / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | 1/2 | ...even better reward |
 | [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | 1/2 | **Bad unless weak.** Fight them instead |
 | [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | 1/2 | Poor value in sector 1 or 2 (Hard) |
+| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/6 | Decent value, risk of asteroid fight |
