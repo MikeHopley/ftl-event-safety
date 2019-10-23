@@ -14,13 +14,13 @@ These are simple binary choices. Is it safe to board that space station or not?
 |----------|:-----------:|:---------------:|--------------|
 | [Move in to examine the station](https://ftl.fandom.com/wiki/Abandoned_Space_Station) | **Safe**  | - | "Move in to examine" is safe |
 | [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | &#8531; | Medbay 2 | **D**amaged and **D**ilapidated means **D**isease |
-| [Unknown disease](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony) | 1/2 | - | **Disease**, so can't clone. Only take blue options |
-| [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | 1/4 | - | Reverse aging, not dying, so can't clone |
+| [Unknown disease](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony) | &frac12; | - | **Disease**, so can't clone. Only take blue options |
+| [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | &frac14; | - | Reverse aging, not dying, so can't clone |
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/5 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
 | No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | 1/3 | Medbay 2 | **N**o **H**ails = **N**eeds **H**ealing |
-| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | 1/2 | - | **Never** sell the space ponies! |
+| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | &frac12; | - | **Never** sell the space ponies! |
 
 ## Other crew death events
 
@@ -30,12 +30,12 @@ These events either have an extra non-blue choice, or multiple stages or nuances
 
 | Text cue | Crew death? | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
-| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
+| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | &frac12; | Clone bay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
 | [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | "Safe" | Clone bay | Engi is "safe", drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
-| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/4 | Clone bay | ...but madmen can kill, also risks 4 hull |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
+| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | &frac14; | Clone bay | ...but madmen can kill, also risks 4 hull |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | &frac14; | Clone bay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS!** |
 
 ## Hull damage events
@@ -44,13 +44,13 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 
 | Text cue | Damage amount | Damage chance | Assessment |
 |----------|:-------------:|:-------------:|------------|
-| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | 1/3 | Good reward |
-| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/2  | **Risky.** System damage + fight |
-| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/3 | Better, unless you **really** want the Mantis |
-| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/4 | Worth it, with clone bay |
+| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | &#8531; | Good reward |
+| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | &frac12;  | **Risky.** System damage + fight |
+| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | &#8531; | Better, unless you **really** want the Mantis |
+| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
-| [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | 2/3 | Good reward on average |
-| ...[defense / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | 1/2 | ...even better reward |
-| [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | 1/2 | **Bad unless weak.** Destroy them instead |
-| [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | 1/2 | Poor value in sector 1 or 2 (Hard) |
-| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/6 | Decent value, risk of asteroid fight |
+| [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | &#8532; | Good reward on average |
+| ...[defense / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | &frac12; | ...even better reward |
+| [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | &frac12; | **Bad unless weak.** Destroy them instead |
+| [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | &frac12; | Poor value in sector 1 or 2 (Hard) |
+| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | &#8537; | Decent value, risk of asteroid fight |
