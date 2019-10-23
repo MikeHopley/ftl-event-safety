@@ -45,8 +45,8 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 hull | 1/3 | Good reward |
 | [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull, 1 system | 1/2  | System damage + fight is risky |
 | ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull | 1/3 | Better, unless you **really** want the Mantis |
-| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/4 | Worth it, with clone bay |
+| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/4 | Worth it, with clone bay |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
 | [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | 2/3 | Good reward on average |
-| ...[use a Defense Drone / Send a repair drone] | 4 | 1/2 | Good reward |
+| ...[use a defense drone / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | 1/2 | Good reward |
 | [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | 1/2 | **Bad unless desperate.** Fight them instead |
