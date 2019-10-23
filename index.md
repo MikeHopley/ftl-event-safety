@@ -10,7 +10,7 @@ These are simple binary choices. Is it safe to board that space station or not?
 
 "Boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. Clone bays cannot cure disease, and upgraded medbays only cure disease in one event.
 
-| Text cue | Crew death? | Medical counter | Aide memoire |
+| Text cue | Crew death? | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
 | [Move in to examine the station](https://ftl.fandom.com/wiki/Abandoned_Space_Station) | **Safe**  | - | "Move in to examine" is safe |
 | [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | 1/3 | Medbay 2 | **D**amaged and **D**ilapidated means **D**isease |
