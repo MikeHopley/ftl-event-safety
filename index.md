@@ -24,4 +24,4 @@ The general pattern is that "boarding" can be risky, but "examining" or "hailing
 | [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | 1/4 | - | Reverse aging, not dying, so can't clone |
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
-| [Refuguee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/5 | Clone bay | **C**omms **d**own = **C**annibal **D**icks |
+| [Refuguee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/5 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
