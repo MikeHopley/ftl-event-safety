@@ -1,6 +1,6 @@
 # FTL event safety guide
 
-FTL contains many events that can kill crew or damage hull. To reduce tedious wiki checks, here's a categorised guide. Some events appear in multiple categories.
+Events can kill crew or damage hull. To reduce tedious wiki checks, here's a categorised guide. Some events appear in multiple categories.
 
 I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text, instead of the *intro* text.
 
