@@ -34,6 +34,7 @@ These events either have an extra non-blue choice, or multiple stages. In the Sm
 | [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | "Safe" | Clone bay | Engi is "safe", drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/4 | Clone bay | ...but madmen can kill, also risks 4 hull |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
 
 ## Hull damage events
 
@@ -41,7 +42,10 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 
 | Text cue | Damage amount | Damage chance | Assessment |
 |----------|:-------------:|:-------------:|----------------|
-| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 hull | 1/3 | Possible weapon reward |
+| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 hull | 1/3 | Good reward (50% weapon) |
 | [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull, 1 system | 1/2  | System damage + fight is risky |
-| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull | 1/2 | Better, unless you **really** want the Mantis |
-
+| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull | 1/3 | Better, unless you **really** want the Mantis |
+| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/4 | Worth it, with clone bay |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
+| [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | 2/3 | Worth it |
+| ...[use a Defense Drone / Send a repair drone] | 4 | 1/2 | Good reward (50% weapon, 50% good quest) |
