@@ -21,7 +21,7 @@ These are simple binary choices. Is it safe to board that space station or not?
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | &#8533; | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
 | No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | ⅓ | Medbay 2 | **N**o **H**ails = **N**eeds **H**ealing |
 | [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | &frac12; | - | **Never** sell the space ponies! |
-| [Malfunctioning Mantis)](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
+| [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
 
 ## Other crew death events
 
