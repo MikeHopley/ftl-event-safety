@@ -8,7 +8,7 @@ I've picked memorable phrases from each event. Sometimes the phrase is from your
 
 These are simple binary choices. Is it safe to board that space station or not?
 
-"Boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. Clone bays cannot cure disease, but upgraded medbays can. There's an evil [Teleporter blue option](https://ftl.fandom.com/wiki/Small_research_station_with_no_response) that does not save your crew.
+"Boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. Clone bays cannot cure disease, but upgraded medbays can. There's an evil [teleporter blue option](https://ftl.fandom.com/wiki/Small_research_station_with_no_response) that does not save your crew.
 
 | Text cue | Crew death? | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
