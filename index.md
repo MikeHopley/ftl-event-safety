@@ -56,7 +56,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | &frac12; | Poor value in sector 1 or 2 (Hard) |
 | [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | &#8537; | Good value, risk of asteroid fight |
 | [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | ⅙ | "Out of fuel" event |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after 1 or 10 repair | ⅓ | Usually worth taking; may need to run |
+| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, net 4 or -5 | ⅓ | Usually worth taking; may need to run |
 | [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | &frac12; | Good value |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
