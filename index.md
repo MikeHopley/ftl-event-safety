@@ -29,9 +29,19 @@ These events either have an extra non-blue choice, or multiple stages. In the Sm
 
 | Text cue | Crew death? | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
-| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death... |
-| [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | ...docking, not sending crew. Risks 4 hull |
+| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
+| ...[Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
 | [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | "Safe" | Clone bay | Engi is "safe", drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
-| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/4 | Clone bay | ...but madmen can kill, also risks 4 hull |
+| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/4 | Clone bay | ...but madmen can kill, also risks 4 hull |
+
+## Hull damage events
+
+Hull damage is usually worth risking, **unless you are low on hull**. Even low-scrap outcomes become attractive in later sectors.
+
+| Text cue | Damage amount | Damage chance | Assessment |
+|----------|:-------------:|:-------------:|----------------|
+| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 hull | 1/3 | Possible weapon reward |
+| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull, 1 system | 1/2  | System damage + fight is risky |
+| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 hull | 1/2 | Better, unless you **really** want the Mantis |
 
