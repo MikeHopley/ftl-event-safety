@@ -1,14 +1,8 @@
 # FTL event safety guide
 
-FTL contains many events that can kill crew or damage hull. Even after years of playing, I still get paranoid and look some up [on the wiki](https://ftl.fandom.com/wiki/Random_Events). It doesn't help that some events have similar text but very different outcomes, and some events have multiple, randomly selected text introductions.
+FTL contains many events that can kill crew or damage hull. To reduce tedious wiki checks, here's a guide to remembering them.
 
-I made this guide as an aid to memorisation. From each event, I've picked out memorable phrases like "smoldering Engi". These cues help you recognise the event; sometimes the best cue is from your choices, not the intro text. I've also looked for simple ways to remember the outcomes or medical system requirements.
-
-I've organised this by "categories" of events, with the idea of making it easier to remember. Some events fit multiple categories, so there is some repetition.
-
-To keep this simple, I'm only considering crew deaths and instant event-based hull damage. For example, I'm saying that [Abandoned space station](https://ftl.fandom.com/wiki/Abandoned_Space_Station) is "safe", even though you might get a ship fight with an ASB.
-
-Some events have blue options. A blue option is **always** safe, although not necessarily the best choice in all situations.
+I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text, instead of the *intro* text.
 
 ## Simple crew death events
 
