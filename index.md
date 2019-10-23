@@ -65,7 +65,7 @@ The following events were already covered in the "crew death" sections, but they
 | Text cue | Damage amount | Damage chance | Assessment |
 |----------|:-------------:|:-------------:|------------|
 | [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | &frac12; | Good value |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option = 4 damage, saves crew |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ | **Possible fleet advance** |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ ** | ...same, but bugged |
