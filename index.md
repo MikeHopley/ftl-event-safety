@@ -49,10 +49,11 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | &#8531; | Good reward |
 | [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | &frac12;  | **Risky.** System damage + fight |
 | ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | &#8531; | Better, unless you **really** want the Mantis |
-| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
 | [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | &#8532; | Good reward on average |
 | ...[defense / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | &frac12; | ...even better reward |
 | [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | &frac12; | **Bad unless weak.** Destroy them instead |
 | [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | &frac12; | Poor value in sector 1 or 2 (Hard) |
-| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | &#8537; | Decent value, risk of asteroid fight |
+| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | &#8537; | Good value, risk of asteroid fight |
+| [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | &frac12; | Good value |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
+| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
