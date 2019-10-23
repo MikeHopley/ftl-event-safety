@@ -40,7 +40,7 @@ These events have more stages or nuances.
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ | Clone bay | **Possible fleet advance too** |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ ** | Clone bay | ...same problems, but bugged |
 
-* In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew. 
+\* In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew. 
 ** The Rebel Defector event is bugged: if you get a second offer, a crew icon will indicate safety.
 
 ## Hull damage events
@@ -61,7 +61,9 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | ⅓ | Usually worth taking; may need to run |
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
-
+ 
+| Text cue | Damage amount | Damage chance | Assessment |
+|----------|:-------------:|:-------------:|------------|
 | [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | &frac12; | Good value |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
