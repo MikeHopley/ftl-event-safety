@@ -22,6 +22,7 @@ These are simple binary choices. Is it safe to board that space station or not?
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | &frac12; | Clone bay | Giant spiders can kill. No joke |
 | [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | &frac12; | - | **Never** sell the space ponies! |
 | [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
+| [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | ⅕ | Clone bay | Good reward. Manually search = danger |
 
 ## Other crew death events
 
