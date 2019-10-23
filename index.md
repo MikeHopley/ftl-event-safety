@@ -2,13 +2,13 @@
 
 Events can kill crew or damage hull. To reduce tedious wiki checks, here's a categorised guide. Some events appear in multiple categories.
 
-I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text, instead of the *intro* text.
+I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text.
 
 ## Simple crew death events
 
 These are simple binary choices. Is it safe to board that space station or not?
 
-"Boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. Clone bays cannot cure disease, but upgraded medbays can. There's an evil [Teleporter blue option](https://ftl.fandom.com/wiki/Merchant%27s_Request) that does not save your crew.
+"Boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. Clone bays cannot cure disease, but upgraded medbays can. There's an evil [Teleporter blue option](https://ftl.fandom.com/wiki/Small_research_station_with_no_response) that does not save your crew.
 
 | Text cue | Crew death? | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
@@ -19,3 +19,4 @@ These are simple binary choices. Is it safe to board that space station or not?
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/5 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
+| No response to your hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | 1/3 | Medbay-2 | **N**o **H**ails = **N**eeds **H**ealing |
