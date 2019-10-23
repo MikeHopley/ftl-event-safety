@@ -1,14 +1,14 @@
 # FTL event safety guide
 
-FTL contains many events that can kill crew or damage hull. To reduce tedious wiki checks, here's a guide to remembering them.
+FTL contains many events that can kill crew or damage hull. To reduce tedious wiki checks, here's a categorised guide. Some events appear in multiple categories.
 
 I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text, instead of the *intro* text.
 
 ## Simple crew death events
 
-The first group of events are simple binary choices. Is it safe to board that space station or not?
+These are simple binary choices. Is it safe to board that space station or not?
 
-The general pattern is that "boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. In some cases a clone bay or upgraded medbay can save them. Clone bays cannot cure disease, and upgraded medbays only cure disease in one event.
+"Boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. Clone bays cannot cure disease, and upgraded medbays only cure disease in one event.
 
 | Text cue | Crew death? | Medical counter | Aide memoire |
 |----------|:-----------:|:---------------:|--------------|
