@@ -16,8 +16,8 @@ The general pattern is that "boarding" can be risky, but "examining" or "hailing
 
 | Event                              | Text cue                       | Crew death? | Medical counter | Aide memoire |
 ----------------------------------------------------------------------------------------------------------------
-| [Abandoned space station]          | Move in to examine the station | **Safe**    | -               | "Move in to examine" is safe. It's not like you're *boarding* them |
+| [Abandoned space station]          | Move in to examine the station | **Safe**    |                | "Move in to examine" is safe. It's not like you're *boarding* them |
 | [Damaged space station]            | Damaged and dilapidated        | 1/3         | Medbay 2        | **D**amaged and **D**ilapidated means **D**isease (can't clone) |
-| [Unknown disease on mining colony] | Unknown disease                | 1/2         | -               | **Disease**, so can't clone. Only take blue options |
-| [Zoltan Great Eye]                 | Great Eye                      | 1/4         | -               | Reverse aging, not dying, so can't clone |
+| [Unknown disease on mining colony] | Unknown disease                | 1/2         |                | **Disease**, so can't clone. Only take blue options |
+| [Zoltan Great Eye]                 | Great Eye                      | 1/4         |               | Reverse aging, not dying, so can't clone |
 | [Giant alien spiders]              | SPIDERS                        | 1/2         | Clone bay       | Giant spiders can kill. No joke
