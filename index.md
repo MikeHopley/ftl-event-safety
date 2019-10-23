@@ -19,4 +19,4 @@ These are simple binary choices. Is it safe to board that space station or not?
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/5 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
-| No response to your hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | 1/3 | Medbay-2 | **N**o **H**ails = **N**eeds **H**ealing |
+| No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | 1/3 | Medbay-2 | **N**o **H**ails = **N**eeds **H**ealing |
