@@ -23,7 +23,7 @@ These are simple binary choices. Is it safe to board that space station or not?
 
 ## Other crew death events
 
-These events either have an extra non-blue choice, or multiple stages. In the Smoldering Engi event, taking the Engi is "safe" because you always get the Engi.
+These events either have an extra non-blue choice, or multiple stages or nuances. In the Smoldering Engi event, taking the Engi is "safe" because you always get the Engi.
 
 **Warning:** I don't (yet!) know what happens if you take the Engi when you only have 1 crew. Engi B beware!
 
@@ -35,6 +35,7 @@ These events either have an extra non-blue choice, or multiple stages. In the Sm
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/4 | Clone bay | ...but madmen can kill, also risks 4 hull |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
+| [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi |
 
 ## Hull damage events
 
