@@ -15,7 +15,7 @@ The first group of events are simple binary choices. Is it safe to board that sp
 The general pattern is that "boarding" can be risky, but "examining" or "hailing them" is safe. Whenever you *send your crew*, expect to lose them. In some cases a clone bay or upgraded medbay can save them. Clone bays cannot cure disease, and upgraded medbays only cure disease in only one event.
 
 | Event                              | Text cue                       | Crew death? | Medical counter | Aide memoire |
-----------------------------------------------------------------------------------------------------------------
+| ------------------------------------------------------------------------------------------------------------------ |
 | [Abandoned space station]          | Move in to examine the station | **Safe**    |                | "Move in to examine" is safe. It's not like you're *boarding* them |
 | [Damaged space station]            | Damaged and dilapidated        | 1/3         | Medbay 2        | **D**amaged and **D**ilapidated means **D**isease (can't clone) |
 | [Unknown disease on mining colony] | Unknown disease                | 1/2         |                | **Disease**, so can't clone. Only take blue options |
