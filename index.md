@@ -25,9 +25,9 @@ These are simple binary choices. Is it safe to board that space station or not?
 
 ## Other crew death events
 
-These events either have an extra non-blue choice, or multiple stages or nuances. In the Smoldering Engi event, taking the Engi is "safe" because you always get the Engi.
+These events have more stages or nuances.
 
-**Warning:** I don't (yet!) know what happens if you take the Engi when you only have 1 crew. Engi B beware!
+In the Smoldering Engi event, taking the Engi is "safe" because you always get the Engi. **Warning:** I don't (yet!) know what happens if you take the Engi when you only have 1 crew. Engi B beware!
 
 | Text cue | Crew death? | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
