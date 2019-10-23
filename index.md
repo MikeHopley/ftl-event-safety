@@ -38,7 +38,7 @@ In the Smoldering Engi event, taking the Engi is "safe" because you always get t
 | [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | "Safe" | Clone bay | Engi is "safe", drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | &frac14; | Clone bay | ...but madmen can kill, also risks 4 hull |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | &frac14; | Clone bay | Unavoidable. Also 6 hull damage |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | &frac14; | Clone bay | Unavoidable |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS!** |
 
 ## Hull damage events
