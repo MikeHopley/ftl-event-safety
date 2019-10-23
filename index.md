@@ -25,6 +25,8 @@ These are simple binary choices. Is it safe to board that space station or not?
 
 These events either have an extra non-blue choice, or multiple stages. In the Smoldering Engi event, taking the Engi is "safe" because you always get the Engi.
 
+**Warning:** I don't (yet!) know what happens if you take the Engi when you only have 1 crew. Engi B beware!
+
 | Text cue | Crew death? | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
 | [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death... |
