@@ -40,8 +40,8 @@ These events have more stages or nuances.
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ | Clone bay | **Possible fleet advance too** |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ ** | Clone bay | ...same problems, but bugged |
 
-\* In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew. 
-** The Rebel Defector event is bugged: if you get a second offer, a crew icon will indicate safety.
+\* In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.  
+** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
 
 ## Hull damage events
 
@@ -68,4 +68,4 @@ The following events were already covered in the "crew death" sections, but they
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ | **Possible fleet advance** |
-| [Reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ ** | ...same, but bugged |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ ** | ...same, but bugged |
