@@ -14,7 +14,7 @@ These are simple binary choices. Is it safe to board that space station or not?
 |----------|:-----------:|:---------------:|--------------|
 | No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | ⅓ | Medbay 2 | **N**o **H**ails = **N**eeds **H**ealing |
 | [Move in to examine the station](https://ftl.fandom.com/wiki/Abandoned_Space_Station) | **Safe**  | - | "Move in to examine" is safe |
-| [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | &#8531; | Medbay 2 | **D**amaged and **D**ilapidated means **D**isease |
+| [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | &#8531; | Medbay 2 | **D**amaged and **D**ilapidated = **D**isease |
 | [Unknown disease](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony) | &frac12; | - | **Disease**, so can't clone. Only take blue options |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
 | [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | &#8533; | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
