@@ -39,7 +39,7 @@ These events have more options, stages, or nuances.
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clone bay | ...but madmen can kill, also risks 4 hull |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Possible fleet advance too |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Messy. I don't take this |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
 | [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
 
@@ -72,7 +72,7 @@ The following events were already covered in the "crew death" sections, but they
 | [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | 1/2 | Good value |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/3 | Worth it, with clone bay |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | Possible fleet advance too |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | Messy. I don't take this |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
@@ -86,7 +86,7 @@ Some events can advance the Rebel fleet by 1 move.
 |----------|:-------:|------------|
 | [Leave them to their fate](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1/2** | Avoid unless low on hull |
 | [Go looking for the Rebel ship](https://ftl.fandom.com/wiki/Rebel_Ship_Nearby) | 1/3 | Okay, as you still get to fight them |
-| [Prepare to chase them!](https://ftl.fandom.com/wiki/Rebel_Ship_in_Nebula) | 1/2 | Maybe worth it in Uncharted Nebula  |
+| [Prepare to chase them!](https://ftl.fandom.com/wiki/Rebel_Ship_in_Nebula) | 1/2 | *Maybe* worth it in Uncharted Nebula  |
 | [Attempt to manually hack into the station](https://ftl.fandom.com/wiki/Rebel_Auto-Ship_sits_Dormant) | 1/3 | (Possible map reveal) Probably not worth it |
 | [Attempt to remain concealed](https://ftl.fandom.com/wiki/Stationed_Rebel_Ship) (Rebel) | 1/3** | Fight them instead |
 | [Interfere - make first contact](https://ftl.fandom.com/wiki/Zoltan_Trade_Hub) | Always | **Terrible** |
