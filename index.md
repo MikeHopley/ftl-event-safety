@@ -39,8 +39,8 @@ These events have more options, stages, or nuances.
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clone bay | ...but madmen can kill, also risks 4 hull |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | **Possible fleet advance too** |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same problems, but bugged |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Possible fleet advance too |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...less bad, also bugged |
 | [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
@@ -92,6 +92,13 @@ The following events were already covered in the "crew death" sections, but they
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
 | [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
 
+And once again, here's our old friend:
+
+| Text cue | Chance* | Assessment |
+|----------|:-------:|------------|
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Bad |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | ...less bad, also bugged |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option
+*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
