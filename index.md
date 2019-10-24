@@ -40,7 +40,7 @@ These events have more options, stages, or nuances.
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Possible fleet advance too |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...less bad, also bugged |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
 | [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
@@ -72,7 +72,7 @@ The following events were already covered in the "crew death" sections, but they
 | [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | 1/2 | Good value |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/3 | Worth it, with clone bay |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | **Possible fleet advance** <sup>just for a filthy human?</sup> |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | Possible fleet advance too |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
@@ -96,8 +96,8 @@ And once again, here's our old friend:
 
 | Text cue | Chance* | Assessment |
 |----------|:-------:|------------|
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Bad |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | ...less bad, also bugged |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Messy. I don't take this |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | ...same, but bugged |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option
