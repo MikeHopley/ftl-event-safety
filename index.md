@@ -41,6 +41,7 @@ These events have more options, stages, or nuances.
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | **Possible fleet advance too** |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same problems, but bugged |
+| [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.   
@@ -76,3 +77,21 @@ The following events were already covered in the "crew death" sections, but they
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
+
+## Fleet advance events
+
+| Text cue | Chance* | Assessment |
+|----------|:-------:|------------|
+| [Leave them to their fate](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1/2** | Avoid unless low on hull |
+| [Go looking for the Rebel ship](https://ftl.fandom.com/wiki/Rebel_Ship_Nearby) | 1/3 | Okay, as you still get to fight them |
+| [Prepare to chase them!](https://ftl.fandom.com/wiki/Rebel_Ship_in_Nebula) | 1/2 | Maybe worth it in Uncharted Nebula  |
+| [Attempt to manually hack into the station](https://ftl.fandom.com/wiki/Rebel_Auto-Ship_sits_Dormant) | 1/3 | (Possible map reveal) Probably not worth it |
+| [Attempt to remain concealed](https://ftl.fandom.com/wiki/Stationed_Rebel_Ship) (Rebel) | 1/3** | Fight them instead |
+| [Interfere - make first contact](https://ftl.fandom.com/wiki/Zoltan_Trade_Hub) | Always | **Terrible** |
+| [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad** |
+| [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
+| [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it<sup>I've never even seen this event</sup> |
+
+
+\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
+** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option
