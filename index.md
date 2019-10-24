@@ -80,6 +80,8 @@ The following events were already covered in the "crew death" sections, but they
 
 ## Fleet advance events
 
+Some events can advance the Rebel fleet by 1 move.
+
 | Text cue | Chance* | Assessment |
 |----------|:-------:|------------|
 | [Leave them to their fate](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1/2** | Avoid unless low on hull |
