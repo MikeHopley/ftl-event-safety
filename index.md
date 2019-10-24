@@ -100,5 +100,5 @@ And once again, here's our old friend:
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | ...same, but bugged |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
-** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option
+** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option  
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
