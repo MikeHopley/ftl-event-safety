@@ -45,7 +45,7 @@ These events have more options, stages, or nuances.
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
 | [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
 | [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clone bay | Swaps crew for weapon |
-| [Send an away team] (no fuel) | 1/4 | - | Send crew = danger |
+| [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew   
@@ -114,4 +114,3 @@ And once again, here's our old friend:
 | Text cue | Penalty | Chance* | Assessment |
 |----------|---------|:-------:|------------|
 | [Let us try to purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Shields and engines halved | Always | Never do this |
-|
