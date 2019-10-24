@@ -90,8 +90,8 @@ The following events were already covered in the "crew death" sections, but they
 | [Interfere - make first contact](https://ftl.fandom.com/wiki/Zoltan_Trade_Hub) | Always | **Terrible** |
 | [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad** |
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
-| [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it<sup>I've never even seen this event</sup> |
+| [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
 
 
-\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
+\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option
