@@ -42,8 +42,8 @@ These events have more options, stages, or nuances.
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | **Possible fleet advance too** |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same problems, but bugged |
 
-\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
-** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.  
+\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
+** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.   
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
 
 ## Hull damage events
@@ -66,14 +66,14 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
  
-| Text cue | Damage amount | Damage chance | Assessment |
-|----------|:-------------:|:-------------:|------------|
+| Text cue | Damage amount | Damage chance* | Assessment |
+|----------|:-------------:|:--------------:|------------|
 | [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | 1/2 | Good value |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/3 | Worth it, with clone bay |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | **Possible fleet advance** <sup>just for a filthy human?</sup> |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 ** | ...same, but bugged |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
 
-\* Ignores "nothing" outcomes, as they are **usually** irrelevant for evaluating risk vs. reward
-** For Mantis Fugitive, I'm **including** the "nothing" outcome, since **both** choices have a chance of damage
+\* Ignores "nothing" outcomes, as they are **usually** irrelevant for evaluating risk vs. reward  
+** For Mantis Fugitive, I'm **including** the "nothing" outcome, since **both** choices have a chance of damage  
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
