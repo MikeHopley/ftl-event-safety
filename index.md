@@ -74,6 +74,5 @@ The following events were already covered in the "crew death" sections, but they
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | **Possible fleet advance** <sup>just for a filthy human?</sup> |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
 
-\* Ignores "nothing" outcomes, as they are **usually** irrelevant for evaluating risk vs. reward  
-** For Mantis Fugitive, I'm **including** the "nothing" outcome, since **both** choices have a chance of damage  
+\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
