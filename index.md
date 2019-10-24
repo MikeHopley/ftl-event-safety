@@ -40,7 +40,7 @@ These events have more options, stages, or nuances.
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ | Clone bay | **Possible fleet advance too** |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ ** | Clone bay | ...same problems, but bugged |
 
-\*:In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.  
+\* In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.  
 ** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
 
 ## Hull damage events
