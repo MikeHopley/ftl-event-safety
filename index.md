@@ -21,7 +21,9 @@ Whenever you **send your crew**, expect to lose them. So "boarding" is risky, bu
 | [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | 1/4 | - | Reverse aging, not dying, so can't clone |
 | [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
 | [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | 1/2 | Clone bay | Mantis may murderise |
+| [Pry it open](https://ftl.fandom.com/wiki/Escape_Pod_Floating_Nearby) | 1/3 | Clone bay | Mantis may murderise |
 | [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | 1/5 | Clone bay | Manually search = danger. (Good reward) |
+| [Rock nursery](https://ftl.fandom.com/wiki/Rock_Nursery#The_battle) | 2/5 | Clone bay | Sending away team = danger <sup>I hardly ever see this event</sup> |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
 
@@ -42,10 +44,12 @@ These events have more options, stages, or nuances.
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Messy. I don't take this |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
 | [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
+| [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clone bay | Swaps crew for weapon |
+| [Send an away team] (no fuel) | 1/4 | - | Send crew = danger |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
-** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.   
-*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
+** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew   
+*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
 
 ## Hull damage events
 
@@ -76,7 +80,7 @@ The following events were already covered in the "crew death" sections, but they
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
-*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
+*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
 
 ## Fleet advance events
 
@@ -103,4 +107,11 @@ And once again, here's our old friend:
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** For these events I'm **including** the "nothing" outcome, since there is no "do nothing" option  
-*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
+*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
+
+## Other penalties
+
+| Text cue | Penalty | Chance* | Assessment |
+|----------|---------|:-------:|------------|
+| [Let us try to purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Shields and engines halved | Always | Never do this |
+|
