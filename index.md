@@ -10,62 +10,70 @@ These are simple binary choices. Is it safe to board that space station or not?
 
 Whenever you **send your crew**, expect to lose them. So "boarding" is risky, but "examining" or "hailing them" is safe. Clone bays cannot cure disease, but upgraded medbays can. There's an evil [teleporter blue option](https://ftl.fandom.com/wiki/Small_research_station_with_no_response) that does not save your crew.
 
-| Text cue | Crew death? | Medical counter | Aide-memoire |
+| Text cue | Crew death?* | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
-| No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | ⅓ | Medbay 2 | **N**o **H**ails = **N**eeds **H**ealing |
+| No response to hails [#1](https://ftl.fandom.com/wiki/Small_research_station_with_no_response), [#2](https://ftl.fandom.com/wiki/Merchant%27s_Request) | 1/3 | Medbay 2 | **N**o **H**ails = **N**eeds **H**ealing |
 | [Move in to examine the station](https://ftl.fandom.com/wiki/Abandoned_Space_Station) | **Safe**  | - | "Move in to examine" is safe |
-| [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | &#8531; | Medbay 2 | **D**amaged and **D**ilapidated = **D**isease |
-| [Unknown disease](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony) | &frac12; | - | **Disease**, so can't clone. Only take blue options |
+| [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | 1/3 | Medbay 2 | **D**amaged and **D**ilapidated = **D**isease |
+| [Unknown disease](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony) | Always | - | **Disease**, so can't clone. Only take blue options |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
-| [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | &#8533; | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
-| [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | &frac14; | - | Reverse aging, not dying, so can't clone |
-| [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | &frac12; | Clone bay | Giant spiders can kill. No joke |
-| [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | &#8531; | Clone bay | Mantis may murderise |
-| [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | ⅕ | Clone bay | Manually search = danger. (Good reward) |
+| [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/4 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
+| [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | 1/4 | - | Reverse aging, not dying, so can't clone |
+| [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
+| [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | 1/2 | Clone bay | Mantis may murderise |
+| [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | 1/5 | Clone bay | Manually search = danger. (Good reward) |
+
+\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
 
 ## Other crew death events
 
 These events have more options, stages, or nuances.
 
-| Text cue | Crew death? | Medical counter | Aide-memoire / notes|
+| Text cue | Crew death?* | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
-| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | &frac12; | - | **Never** sell the space ponies! <sup>You monster</sup> |
-| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | &frac12; | Clone bay | Send crew = danger, fire = death |
+| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | - | **Never** sell the space ponies! <sup>You monster</sup> |
+| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
-| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is safe*, drone needs clone |
+| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is safe**, drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
-| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | &frac14; | Clone bay | ...but madmen can kill, also risks 4 hull |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | &frac14; | Clone bay | Unavoidable. Also 6 hull damage |
+| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clone bay | ...but madmen can kill, also risks 4 hull |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ | Clone bay | **Possible fleet advance too** |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | ⅙ ** | Clone bay | ...same problems, but bugged |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | **Possible fleet advance too** |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same problems, but bugged |
 
-\* In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.  
-** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
+\* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
+** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew.  
+*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
 
 ## Hull damage events
 
 Hull damage is usually worth risking, **unless you are low on hull**. Even low-scrap outcomes become attractive in later sectors.
 
-| Text cue | Damage amount | Damage chance | Assessment |
-|----------|:-------------:|:-------------:|------------|
-| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | &#8531; | Good reward |
-| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | &frac12;  | **Risky.** System damage + fight |
-| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | &#8531; | Better, unless you **really** want the Mantis |
-| [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | &#8532; | Good reward on average |
-| ...[defense / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | &frac12; | ...even better reward |
-| [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | &frac12; | **Bad unless weak.** Destroy them instead |
-| [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | &frac12; | Poor value in sector 1 or 2 (Hard) |
-| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | &#8537; | Good value, risk of asteroid fight |
-| [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | ⅙ | "Out of fuel" event |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | ⅓ | Usually worth taking; may need to run |
+| Text cue | Damage amount | Damage chance* | Assessment |
+|----------|:-------------:|:--------------:|------------|
+| [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | 1/3 | Good reward |
+| [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/2  | **Risky.** System damage + fight |
+| ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/3 | Better, unless you **really** want the Mantis |
+| [Try to shield their ship](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 1 or 4 | 2/3 | Good reward on average |
+| ...[defense / repair drone](https://ftl.fandom.com/wiki/Small_Asteroid_Belt_Distress_Beacon) | 4 | 1/2 | ...even better reward |
+| [Try to dislodge the ship](https://ftl.fandom.com/wiki/Crushed_Pirate) | 2 | 1/2 | **Bad unless weak.** Destroy them instead |
+| [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | 1/2 | Poor value in sector 1 or 2 (Hard) |
+| [Steal the civilian supplies](https://ftl.fandom.com/wiki/Rebels_Supplying_Civilians) | 2 | &frac14; | Worth it |
+| [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/5 | Good value, risk of asteroid fight |
+| [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | 1/5 | "Out of fuel" event |
+| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run |
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
  
 | Text cue | Damage amount | Damage chance | Assessment |
 |----------|:-------------:|:-------------:|------------|
-| [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | &frac12; | Good value |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | &frac14; | Missile blue option is 4 damage (saves crew) |
-| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | &frac14; | Worth it, with clone bay |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ | **Possible fleet advance** <sup>just for a filthy human?</sup> |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | ⅓ ** | ...same, but bugged |
+| [Dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 4 | 1/2 | Good value |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 6 | 1/4 | Missile blue option is 4 damage (saves crew) |
+| [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/3 | Worth it, with clone bay |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | **Possible fleet advance** <sup>just for a filthy human?</sup> |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 ** | ...same, but bugged |
+
+\* Ignores "nothing" outcomes, as they are **usually** irrelevant for evaluating risk vs. reward
+** For Mantis Fugitive, I'm **including** the "nothing" outcome, since **both** choices have a chance of damage
+*** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg).
