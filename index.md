@@ -127,8 +127,8 @@ And once again, here's our old friend:
 
 The following events were already covered in earlier sections:
 
-| Text cue | Penalty | Assessment |
-|----------|---------|------------|
+| Text cue | Penalty | Chance | Assessment |
+|----------|---------|:------:|------------|
 | [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Always | Never do this |
 | [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Engines limited to 1 | 1/3 | Worth it |
 | [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Weapons halved (rounds against you) | 1/3 | Worth it. High scrap reward, run if necessary |
