@@ -80,6 +80,7 @@ The following events were already covered in the "crew death" sections, but they
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/3 | Worth it, with clone bay |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | Messy. I don't take this |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
+| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | Always | They warned you THREE times! |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
@@ -99,7 +100,6 @@ Some events can advance the Rebel fleet by 1 move.
 | [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad** |
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
 | [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
-| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | Always | They warned you. THREE times! |
 
 And once again, here's our old friend:
 
