@@ -36,7 +36,7 @@ These events have more options, stages, or nuances.
 | [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | - | **Never** sell the space ponies! <sup>You monster</sup> |
 | [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
-| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is "safe"\**, drone needs clone |
+| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is "safe"\*\*, drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clone bay | ...but madmen can kill, also risks 4 hull |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
@@ -67,8 +67,10 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Steal the civilian supplies](https://ftl.fandom.com/wiki/Rebels_Supplying_Civilians) | 2 | 1/3 | Worth it |
 | [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/5 | Good value, risk of asteroid fight |
 | [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | 1/5 | You need the fuel |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run | [Buy nothing] (conspicuous ship)(https://ftl.fandom.com/wiki/Merchant_with_Conspicuous_Markings) | 3 | Always | Attack them instead |
-| [Dock with the refueling platform](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | ~2/5 | Ignore unless desperate for fuel | | ...[quickly dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | 1/2 | Skip unless at 0 fuel |
+| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run |
+| [Buy nothing](https://ftl.fandom.com/wiki/Merchant_with_Conspicuous_Markings) (conspicuous ship) | 3 | Always | Attack them instead |
+| [Dock with the refueling platform](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | ~2/5 | Ignore unless desperate for fuel |
+| ...[quickly dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | 1/2 | Skip unless at 0 fuel |
 | [Demand the Rock ship pay](https://ftl.fandom.com/wiki/Slug_and_Rock_Standoff#Slug_reward) | 5 | 1/3 | Usually worth taking |
 | [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | Always | They warned you. THREE times! |
 
