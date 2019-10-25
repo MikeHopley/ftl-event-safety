@@ -118,6 +118,7 @@ And once again, here's our old friend:
 
 | Text cue | Penalty | Chance | Assessment |
 |----------|---------|:------:|------------|
+| [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | 1/2 | Attack instead; weak blue options |
 | [One of the N moons](https://ftl.fandom.com/wiki/Slug_trapped_on_a_moon) | Steals 35 scrap, 2-4 fuel, 1-2 drones | Always |Count your moons! |
 | [Chuckles, the Slug](https://ftl.fandom.com/wiki/Poorly_Armed_Slug_Ship) | Steals 20-35 scrap, 2-4 missiles | 1/2 | Up to 10 scrap per fuel |
 | [Drink](https://ftl.fandom.com/wiki/Slug_Captain_Invites_You_to_a_Drink) | Steals 25-35 scrap | 1/2 | **Bad.** You also miss a fight |
@@ -129,6 +130,6 @@ The following events were already covered in earlier sections:
 | Text cue | Penalty | Assessment |
 |----------|---------|------------|
 | [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Always | Never do this |
-| [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | Attack instead; weak blue options |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) | Weapons halved (rounds against you) | Worth it. High scrap reward, run if necessary |
-| [Quicky dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | Lose 3 fuel | Worth it when you have no fuel |
+| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Engines limited to 1 | 1/3 | Worth it |
+| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Weapons halved (rounds against you) | 1/3 | Worth it. High scrap reward, run if necessary |
+| [Quicky dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | Lose 3 fuel | 1/2 |Worth it when you have no fuel |
