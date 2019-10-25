@@ -30,7 +30,7 @@ Whenever you **send your crew**, expect to lose them. So "boarding" is risky, bu
 
 ## Other crew death events
 
-These events have more options, stages, or nuances.
+These events have more options, stages, or nuances. I'm leaving out obvious choices like "give up your crew member". <sup>No prizes for guessing what happens there</sup>
 
 | Text cue | Crew death?* | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
@@ -44,8 +44,6 @@ These events have more options, stages, or nuances.
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Messy. I don't take this |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
-| [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
-| [Give up your crewmember](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Always | - | Attack immediately; bad blue options |
 | [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clone bay | Swaps crew for weapon |
 | [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger. (Can avert with scrap) |
 
