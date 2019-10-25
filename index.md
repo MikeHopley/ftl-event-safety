@@ -119,7 +119,7 @@ And once again, here's our old friend:
 | Text cue | Penalty | Chance | Assessment |
 |----------|---------|:------:|------------|
 | [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | 1/2 | Attack instead; weak blue options |
-| [One of the N moons](https://ftl.fandom.com/wiki/Slug_trapped_on_a_moon) | Steals 35 scrap, 2-4 fuel, 1-2 drones | Always |Count your moons! |
+| [One of the N moons](https://ftl.fandom.com/wiki/Slug_trapped_on_a_moon) | Steals 35 scrap, 2-4 fuel, 1-2 drones | 3/4 |Count your moons! |
 | [Chuckles, the Slug](https://ftl.fandom.com/wiki/Poorly_Armed_Slug_Ship) | Steals 20-35 scrap, 2-4 missiles | 1/2 | Up to 10 scrap per fuel |
 | [Drink](https://ftl.fandom.com/wiki/Slug_Captain_Invites_You_to_a_Drink) | Steals 25-35 scrap | 1/2 | **Bad.** You also miss a fight |
 | [Choose your own death](https://ftl.fandom.com/wiki/Dangerous_Looking_Ship) | System is halved (rounds against you) | Always | Normally take O2 | 
