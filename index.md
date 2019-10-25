@@ -67,7 +67,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Steal the civilian supplies](https://ftl.fandom.com/wiki/Rebels_Supplying_Civilians) | 2 | 1/3 | Worth it |
 | [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/5 | Good value, risk of asteroid fight |
 | [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | 1/5 | You need the fuel |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run |
+| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station) (Slug repair) | 5, after repair | 1/3 | Usually worth taking; may need to run |
 | [Buy nothing](https://ftl.fandom.com/wiki/Merchant_with_Conspicuous_Markings) (conspicuous ship) | 3 | Always | Attack them instead |
 | [Dock with the refueling platform](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | ~2/5 | Ignore unless desperate for fuel |
 | ...[quickly dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | 1/2 | Skip unless at 0 fuel |
