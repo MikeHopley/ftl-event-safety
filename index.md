@@ -130,4 +130,4 @@ The following events were already covered in earlier sections:
 |----------|---------|------------|
 | [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Never do this |
 | [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | Never do this |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) | Weapons halved (round against you) | Worth it. High scrap reward, run if necessary |
+| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) | Weapons halved (rounds against you) | Worth it. High scrap reward, run if necessary |
