@@ -30,7 +30,7 @@ Whenever you **send your crew**, expect to lose them. So "boarding" is risky, bu
 
 ## Other crew death events
 
-These events have more options, stages, or nuances. I'm leaving out obvious choices like "give up your crew member". <sup>No prizes for guessing what happens there</sup>
+These events have more options, stages, or nuances. I'm leaving out obvious choices like "give up your crew member".
 
 | Text cue | Crew death?* | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
