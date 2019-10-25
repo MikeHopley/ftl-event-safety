@@ -66,7 +66,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Fire on the defense system](https://ftl.fandom.com/wiki/Malfunction_Defense_System) | 5 | 1/2 | Poor value in sector 1 or 2 (Hard) |
 | [Steal the civilian supplies](https://ftl.fandom.com/wiki/Rebels_Supplying_Civilians) | 2 | 1/3 | Worth it |
 | [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/5 | Good value, risk of asteroid fight |
-| [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | 1/5 | "Out of fuel" event |
+| [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | 1/5 | You need the fuel |
 | [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run |
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
