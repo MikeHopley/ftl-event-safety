@@ -98,8 +98,8 @@ Some events can advance the Rebel fleet by 1 move.
 | [Prepare to chase them!](https://ftl.fandom.com/wiki/Rebel_Ship_in_Nebula) | 1/2 | *Maybe* worth it in Uncharted Nebula  |
 | [Attempt to manually hack into the station](https://ftl.fandom.com/wiki/Rebel_Auto-Ship_sits_Dormant) | 1/3 | (Possible map reveal) Probably not worth it |
 | [Attempt to remain concealed](https://ftl.fandom.com/wiki/Stationed_Rebel_Ship) (Rebel) | 1/3** | Fight them instead |
-| [Interfere - make first contact](https://ftl.fandom.com/wiki/Zoltan_Trade_Hub) | Always | **Terrible** |
-| [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad** |
+| [Interfere - make first contact](https://ftl.fandom.com/wiki/Zoltan_Trade_Hub) | Always | **Terrible.** Attack the Rebels instead |
+| [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad.** Attack the Rebels instead |
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
 | [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
 
@@ -129,7 +129,7 @@ The following events were already covered in earlier sections:
 
 | Text cue | Penalty | Chance | Assessment |
 |----------|---------|:------:|------------|
-| [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Always | Never do this |
+| [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Always | **Bad.** Attack or use blue options |
 | [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Engines limited to 1 | 1/3 | Worth it |
 | [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Weapons halved (rounds against you) | 1/3 | Worth it. High scrap reward, run if necessary |
 | [Quicky dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | Lose 3 fuel | 1/2 |Worth it when you have no fuel |
