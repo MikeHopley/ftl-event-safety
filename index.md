@@ -1,8 +1,8 @@
 # FTL event safety guide
 
-Events can kill crew, damage hull, or inflict other penalties. To reduce tedious wiki checks, here's a categorised guide.
+Events can kill crew, damage hull, or advance the Rebel fleet. The wiki has a useful [negative consequences](https://ftl.fandom.com/wiki/Category:Negative_Consequences) super-category page.
 
-I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text.
+To reduce tedious wiki checks, here's a categorised guide. I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text.
 
 ## Simple crew death events
 
@@ -67,7 +67,9 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Steal the civilian supplies](https://ftl.fandom.com/wiki/Rebels_Supplying_Civilians) | 2 | 1/3 | Worth it |
 | [Explore the asteroid field](https://ftl.fandom.com/wiki/Large_asteroid_field) | 5 | 1/5 | Good value, risk of asteroid fight |
 | [Approach the asteroid field](https://ftl.fandom.com/wiki/Explore_the_System) | 5 | 1/5 | You need the fuel |
-| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run |
+| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run | [Buy nothing] (conspicuous ship)(https://ftl.fandom.com/wiki/Merchant_with_Conspicuous_Markings) | 3 | Always | Attack them instead |
+| [Dock with the refueling platform](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | ~2/5 | Ignore unless desperate for fuel | | ...[quickly dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | 1/2 | Skip unless at 0 fuel |
+| [Demand the Rock ship pay](https://ftl.fandom.com/wiki/Slug_and_Rock_Standoff#Slug_reward) | 5 | 1/3 | Usually worth taking |
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
  
@@ -97,6 +99,7 @@ Some events can advance the Rebel fleet by 1 move.
 | [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad** |
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
 | [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
+| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | Always | They warned you. THREE times! |
 
 And once again, here's our old friend:
 
@@ -111,6 +114,4 @@ And once again, here's our old friend:
 
 ## Other penalties
 
-| Text cue | Penalty | Chance* | Assessment |
-|----------|---------|:-------:|------------|
-| [Let us try to purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Shields and engines halved | Always | Never do this |
+The wiki has a super-category page for [events with negative consequences](https://ftl.fandom.com/wiki/Category:Negative_Consequences).
