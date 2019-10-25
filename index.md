@@ -124,4 +124,4 @@ And once again, here's our old friend:
 | [Try to purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Never do this |
 | [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | Never do this. Attack instead |
 | [Choose your own death](https://ftl.fandom.com/wiki/Dangerous_Looking_Ship) | System is halved (rounds against you) | Normally take O2 | 
-| [Care to see our waresss?](https://ftl.fandom.com/wiki/Slug_transport_with_military_escort) | Weapons offline | Pick "Forget this" at the *second* opportunity |
+| [Care to see our waresss?](https://ftl.fandom.com/wiki/Slug_transport_with_military_escort) | Weapons offline, 1/3 chance | Pick "Forget this" at the *second* opportunity |
