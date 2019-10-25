@@ -116,4 +116,11 @@ And once again, here's our old friend:
 
 ## Other penalties
 
-The wiki has a super-category page for [events with negative consequences](https://ftl.fandom.com/wiki/Category:Negative_Consequences).
+| Text cue | Penalty | Assessment |
+|----------|---------|------------|
+| [One of the N moons](https://ftl.fandom.com/wiki/Slug_trapped_on_a_moon) | Steals 35 scrap, 2-4 fuel, 1-2 drones | Count your moons! |
+| [Chuckles, the Slug](https://ftl.fandom.com/wiki/Poorly_Armed_Slug_Ship) | Steals 20-35 scrap, 2-4 missiles | Up to 10 scrap per fuel |
+| [Drink](https://ftl.fandom.com/wiki/Slug_Captain_Invites_You_to_a_Drink) | Steals 25-25 scrap | **Bad.** You also miss a fight |
+| [Try to purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Never do this |
+| [Choose your own death](https://ftl.fandom.com/wiki/Dangerous_Looking_Ship) | Shields, weapons, or O2 halved (rounds against you) | Normally take O2. Weapons if you're really confident (high scrap) | 
+| [Care to see our waresss?](https://ftl.fandom.com/wiki/Slug_transport_with_military_escort) | Weapons offline | Pick "Ask to see the goods", then "Understood", *then* "Forget this" |
