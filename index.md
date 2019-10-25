@@ -121,7 +121,13 @@ And once again, here's our old friend:
 | [One of the N moons](https://ftl.fandom.com/wiki/Slug_trapped_on_a_moon) | Steals 35 scrap, 2-4 fuel, 1-2 drones | Count your moons! |
 | [Chuckles, the Slug](https://ftl.fandom.com/wiki/Poorly_Armed_Slug_Ship) | Steals 20-35 scrap, 2-4 missiles | Up to 10 scrap per fuel |
 | [Drink](https://ftl.fandom.com/wiki/Slug_Captain_Invites_You_to_a_Drink) | Steals 25-25 scrap | **Bad.** You also miss a fight |
-| [Try to purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Never do this |
-| [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | Never do this. Attack instead |
 | [Choose your own death](https://ftl.fandom.com/wiki/Dangerous_Looking_Ship) | System is halved (rounds against you) | Normally take O2 | 
 | [Care to see our waresss?](https://ftl.fandom.com/wiki/Slug_transport_with_military_escort) | Weapons offline, 1/3 chance | Pick "Forget this" at the *second* opportunity |
+
+The following events were already covered in earlier sections:
+
+| Text cue | Penalty | Assessment |
+|----------|---------|------------|
+| [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Never do this |
+| [Submit to profiling](https://ftl.fandom.com/wiki/Zoltan_Security_Checkpoint) | Crew loss or weapons halved | Never do this |
+| [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) | Weapons halved (round against you) | Worth it. High scrap reward, run if necessary |
