@@ -36,7 +36,7 @@ These events have more options, stages, or nuances.
 | [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | - | **Never** sell the space ponies! <sup>You monster</sup> |
 | [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
-| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is safe**, drone needs clone |
+| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is "safe"\**, drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
 | ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clone bay | ...but madmen can kill, also risks 4 hull |
 | [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
@@ -48,7 +48,7 @@ These events have more options, stages, or nuances.
 | [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
-** In the Smoldering Engi event, taking the Engi is always "safe" because they replace any lost crew   
+** Taking the Engi is "safe" because they replace any lost crew (but you might lose skills). "Save yourselves" is 100% safe.  
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
 
 ## Hull damage events
