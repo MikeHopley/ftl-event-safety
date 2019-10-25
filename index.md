@@ -23,7 +23,7 @@ Whenever you **send your crew**, expect to lose them. So "boarding" is risky, bu
 | [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | 1/2 | Clone bay | Mantis may murderise |
 | [Pry it open](https://ftl.fandom.com/wiki/Escape_Pod_Floating_Nearby) | 1/3 | Clone bay | Mantis may murderise |
 | [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | 1/5 | Clone bay | Manually search = danger. (Good reward) |
-| [Send some crew to help](https://ftl.fandom.com/wiki/Slug_Oxygen_Malfunction) (Slugs) | 1/3 | Clone bay | Sending crew to help Slugs? <sup>How gullible are you?</sup>
+| [Send some crew to help](https://ftl.fandom.com/wiki/Slug_Oxygen_Malfunction) (Slugs) | 1/3 | Clone bay | Send crew to help Slugs? Seriously? |
 | [Rock nursery](https://ftl.fandom.com/wiki/Rock_Nursery#The_battle) | 2/5 | Clone bay | Send away team = danger <sup>I hardly ever see this event</sup> |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
