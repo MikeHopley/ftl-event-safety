@@ -70,6 +70,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Slug repair station](https://ftl.fandom.com/wiki/Slug_Repair_Station) | 5, after repair | 1/3 | Usually worth taking; may need to run | [Buy nothing] (conspicuous ship)(https://ftl.fandom.com/wiki/Merchant_with_Conspicuous_Markings) | 3 | Always | Attack them instead |
 | [Dock with the refueling platform](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | ~2/5 | Ignore unless desperate for fuel | | ...[quickly dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | 1/2 | Skip unless at 0 fuel |
 | [Demand the Rock ship pay](https://ftl.fandom.com/wiki/Slug_and_Rock_Standoff#Slug_reward) | 5 | 1/3 | Usually worth taking |
+| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | Always | They warned you. THREE times! |
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
  
@@ -80,7 +81,6 @@ The following events were already covered in the "crew death" sections, but they
 | [Mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 4 | 1/3 | Worth it, with clone bay |
 | [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 | Messy. I don't take this |
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 2 or 3 | 1/3 *** | ...same, but bugged |
-| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | Always | They warned you THREE times! |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward   
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
