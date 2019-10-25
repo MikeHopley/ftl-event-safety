@@ -45,10 +45,10 @@ These events have more options, stages, or nuances.
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
 | [Leave your crew member behind](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) | Always | - | Bad option<sup>what did you expect?</sup> |
 | [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clone bay | Swaps crew for weapon |
-| [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger |
+| [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger (can avert with scrap) |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
-** Taking the Engi is "safe" because they replace any lost crew (but you might lose skills). "Save yourselves" is 100% safe.  
+** Taking the Engi is "safe" because they replace any lost crew (but you might lose skills). "Save yourselves" is 100% safe  
 *** The Rebel Defector event is bugged: if you get a second offer, [a crew icon indicates safety](https://imgur.com/a/LNQNnUg)
 
 ## Hull damage events
