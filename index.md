@@ -72,7 +72,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 | [Dock with the refueling platform](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | ~2/5 | Ignore unless desperate for fuel |
 | ...[quickly dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | 3 | 1/2 | Skip unless at 0 fuel |
 | [Demand the Rock ship pay](https://ftl.fandom.com/wiki/Slug_and_Rock_Standoff#Slug_reward) | 5 | 1/3 | Usually worth taking |
-| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | "Always" | They warned you. THREE times! |
+| [Capture the ship intact](https://ftl.fandom.com/wiki/Unencrypted_Communication_Channel) | **15** | "Always" | You were warned. THREE times! |
 
 The following events were already covered in the "crew death" sections, but they also deal hull damage. Here they are again:
  
