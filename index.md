@@ -34,7 +34,7 @@ These events have more options, stages, or nuances. I'm leaving out obvious choi
 
 | Text cue | Crew death?* | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
-| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | - | **Never** sell the space ponies! <sup>You monster</sup> |
+| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | (Clone bay) | **Never** sell the space ponies! <sup>You monster</sup> |
 | [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
 | [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is "safe"\*\*, drone needs clone |
