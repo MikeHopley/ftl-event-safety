@@ -131,6 +131,6 @@ The following events were already covered in earlier sections:
 | Text cue | Penalty | Chance | Assessment |
 |----------|---------|:------:|------------|
 | [Purge the system code!](https://ftl.fandom.com/wiki/The_Engi_Virus) | Engines and shields power halved | Always | **Bad.** Attack or use blue options |
-| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Engines limited to 1 | 1/3 | Worth it |
-| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Weapons halved (rounds against you) | 1/3 | Worth it. High scrap reward, run if necessary |
+| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Engines limited to 1 | 1/3 | Fine |
+| [Sure](https://ftl.fandom.com/wiki/Slug_Repair_Station#Demand_an_explanation) (Slug repair) | Weapons halved (rounds against you) | 1/3 | Usually worth the risk. Be prepared to run |
 | [Quicky dock and refuel](https://ftl.fandom.com/wiki/Orbiting_Small_Platform) | Lose 3 fuel | 1/2 |Worth it when you have no fuel |
