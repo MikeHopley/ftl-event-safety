@@ -56,7 +56,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 
 | Text cue | Damage amount | Damage chance* | Assessment |
 |----------|:-------------:|:--------------:|------------|
-| [Investigate the battlefield](https://ftl.fandom.com/wiki/Nebula_seen_Ships_Exchange_Fire) (nebula) | 5 | 1/2 | Bad without clonebay or medbay-2. Different from [this event](https://ftl.fandom.com/wiki/Brutal_Exchange_between_Several_Ships) |
+| [Investigate the battlefield](https://ftl.fandom.com/wiki/Nebula_seen_Ships_Exchange_Fire) (nebula) | 5 | 1/2 | Bad without clonebay or medbay-2 |
 | [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | 1/3 | Good reward |
 | [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/2  | **Risky.** System damage + fight |
 | ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/3 | Better, unless you **really** want the Mantis |
