@@ -103,7 +103,7 @@ Some events can advance the Rebel fleet by 1 move.
 | [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad.** Attack the Rebels instead |
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
 | [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
-| [Do a full system scan]() | Always | Unavoidable at this point |
+| [Do a full system scan](https://ftl.fandom.com/wiki/Nebula_seen_Ships_Exchange_Fire) | Always | Unavoidable at this point |
 
 And once again, here's our old friend:
 
