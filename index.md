@@ -8,7 +8,7 @@ To reduce tedious wiki checks, here's a categorised guide. I've picked memorable
 
 These are simple binary choices. Is it safe to board that space station or not?
 
-Whenever you **send your crew**, expect to lose them. So "boarding" is risky, but "examining" or "hailing them" is safe. Clone bays cannot cure disease, but upgraded medbays can. There's an evil [teleporter blue option](https://ftl.fandom.com/wiki/Small_research_station_with_no_response) that does not save your crew.
+Whenever you **send your crew**, expect to lose them. So "boarding" is risky, but "examining" or "hailing them" is safe. Clonebays cannot cure disease, but upgraded medbays can. There's an evil [teleporter blue option](https://ftl.fandom.com/wiki/Small_research_station_with_no_response) that does not save your crew.
 
 | Text cue | Crew death?* | Medical counter | Aide-memoire |
 |----------|:-----------:|:---------------:|--------------|
@@ -17,13 +17,13 @@ Whenever you **send your crew**, expect to lose them. So "boarding" is risky, bu
 | [Damaged and dilapidated](https://ftl.fandom.com/wiki/Damaged_Space_Station) | 1/3 | Medbay 2 | **D**amaged and **D**ilapidated = **D**isease |
 | [Unknown disease](https://ftl.fandom.com/wiki/Unknown_Disease_on_Mining_Colony) | Always | - | **Disease**, so can't clone. Only take blue options |
 | [Refugee drifting](https://ftl.fandom.com/wiki/Drifting_Refugee_Ship) | **Safe** | - | "Hail them" is always safe |
-| [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/4 | Clone bay | **C**omms **D**own = **C**annibal **D**icks |
+| [Refugee comms down](https://ftl.fandom.com/wiki/Refugee_Ship_with_Communications_Down) | 1/4 | Clonebay | **C**omms **D**own = **C**annibal **D**icks |
 | [Great Eye](https://ftl.fandom.com/wiki/Zoltan_%22Great_Eye%22) | 1/4 | - | Reverse aging, not dying, so can't clone |
-| [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clone bay | Giant spiders can kill. No joke |
-| [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | 1/2 | Clone bay | Mantis may murderise |
-| [Pry it open](https://ftl.fandom.com/wiki/Escape_Pod_Floating_Nearby) | 1/3 | Clone bay | Mantis may murderise |
-| [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | 1/5 | Clone bay | Manually search = danger. (Good reward) |
-| [Send some crew to help](https://ftl.fandom.com/wiki/Slug_Oxygen_Malfunction) (Slugs) | 1/3 | Clone bay | Send crew to help Slugs? Seriously? |
+| [Giant alien spiders](https://ftl.fandom.com/wiki/Giant_Alien_Spiders) | 1/2 | Clonebay | Giant spiders can kill. No joke |
+| [Malfunctioning Mantis](https://ftl.fandom.com/wiki/Confused_Mantis) | 1/2 | Clonebay | Mantis may murderise |
+| [Pry it open](https://ftl.fandom.com/wiki/Escape_Pod_Floating_Nearby) | 1/3 | Clonebay | Mantis may murderise |
+| [Incapacitated ships](https://ftl.fandom.com/wiki/Plasma_Storm_Incapacitated_Ships) | 1/5 | Clonebay | Manually search = danger. (Good reward) |
+| [Send some crew to help](https://ftl.fandom.com/wiki/Slug_Oxygen_Malfunction) (Slugs) | 1/3 | Clonebay | Send crew to help Slugs? Seriously? |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward
 
@@ -33,17 +33,17 @@ These events have more options, stages, or nuances. I'm leaving out obvious choi
 
 | Text cue | Crew death?* | Medical counter | Aide-memoire / notes|
 |----------|:-----------:|:---------------:|---------------------|
-| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | (Clone bay) | **Never** sell the space ponies! <sup>You monster</sup> |
-| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clone bay | Send crew = danger, fire = death |
+| [Bring ... creatures to sell](https://ftl.fandom.com/wiki/Intelligent_Lifeform_on_Planet) | Always | (Clonebay) | **Never** sell the space ponies! <sup>You monster</sup> |
+| [Send your crew in a shuttle](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | 1/2 | Clonebay | Send crew = danger, fire = death |
 | ...[dock and try to rescue](https://ftl.fandom.com/wiki/Fire_on_Small_Research_Station) | **Safe** | - | Docking, not sending crew. Risks 4 hull |
-| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clone bay | Engi is "safe"\*\*, drone needs clone |
+| [Smoldering Engi](https://ftl.fandom.com/wiki/Engi_Research_Station) | **Safe** | Clonebay | Engi is "safe"\*\*, drone needs clone |
 | [Single life form](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | **Safe** | - | First stage always safe... |
-| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clone bay | ...but madmen can kill, also risks 4 hull |
-| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clone bay | Unavoidable. Also 6 hull damage |
+| ...[mental state questionable](https://ftl.fandom.com/wiki/Single_Life_Form_on_Moon) | 1/3 | Clonebay | ...but madmen can kill, also risks 4 hull |
+| [Rock live mine](https://ftl.fandom.com/wiki/Rock_Live_Mine) | 1/4 | Clonebay | Unavoidable. Also 6 hull damage |
 | [Have your Engi negotiate](https://ftl.fandom.com/wiki/The_Engi_Virus) | Maybe! | - | No ship kill = dead Engi. **Single crew = LOSS** |
-| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clone bay | Messy. I don't take this |
-| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clone bay | ...same, but bugged |
-| [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clone bay | Swaps crew for weapon |
+| [Accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 | Clonebay | Messy. I don't take this |
+| ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clonebay | ...same, but bugged |
+| [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clonebay | Swaps crew for weapon |
 | [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger. (Can avert with scrap) |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
@@ -56,7 +56,7 @@ Hull damage is usually worth risking, **unless you are low on hull**. Even low-s
 
 | Text cue | Damage amount | Damage chance* | Assessment |
 |----------|:-------------:|:--------------:|------------|
-| [Investigate the battlefield](https://ftl.fandom.com/wiki/Nebula_seen_Ships_Exchange_Fire) (nebula beacon) | 5 | 1/2 | Different from [this event](https://ftl.fandom.com/wiki/Brutal_Exchange_between_Several_Ships) |
+| [Investigate the battlefield](https://ftl.fandom.com/wiki/Nebula_seen_Ships_Exchange_Fire) (nebula) | 5 | 1/2 | Bad without clonebay or medbay-2. Different from [this event](https://ftl.fandom.com/wiki/Brutal_Exchange_between_Several_Ships) |
 | [Ship without life forms](https://ftl.fandom.com/wiki/Dense_Asteroid_Field_Distress_Call) | 5 | 1/3 | Good reward |
 | [Side with the fugitive](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/2  | **Risky.** System damage + fight |
 | ...[offer up the Mantis](https://ftl.fandom.com/wiki/Mantis_Fugitive) | 5 | 1/3 | Better, unless you **really** want the Mantis |
@@ -103,6 +103,7 @@ Some events can advance the Rebel fleet by 1 move.
 | [Attack the Crystalline ship](https://ftl.fandom.com/wiki/Crystalline_Ship_Engaged_with_Rebel) | Always | **Bad.** Attack the Rebels instead |
 | [Give them your flight plans](https://ftl.fandom.com/wiki/Crystalline_ship_messaging_about_Rebels) | Always | Lie to them instead |
 | [Wait](https://ftl.fandom.com/wiki/Crystalline_Men_Buried) (buried Crystal men) | Always | Probably not worth it <sup>I've never even seen this event</sup> |
+| [Do a full system scan]() | Always | Unavoidable at this point |
 
 And once again, here's our old friend:
 
