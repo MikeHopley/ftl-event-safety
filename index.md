@@ -47,7 +47,7 @@ These events have more options, stages, or nuances. I'm leaving out obvious choi
 | ...[reluctantly accept his proposal](https://ftl.fandom.com/wiki/Rebel_Unarmed_Defector) | 1/6 *** | Clonebay | ...same, but bugged |
 | [Allow them to run tests](https://ftl.fandom.com/wiki/Crystalline_Research_Facility) | 1/3 | Clonebay | Swaps crew for weapon |
 | [Send an away team](https://ftl.fandom.com/wiki/Drifting_Debris) (no fuel) | 1/4 | - | Send crew = danger. (Can avert with scrap) |
-| [Crystalline cache](https://ftl.fandom.com/wiki/Crystalline_Cache) | 1/6 -- 1/3 | Clonebay | Unavoidable. Blue options: teleporter-2 or engines-7 |
+| [Crystalline cache](https://ftl.fandom.com/wiki/Crystalline_Cache) | 1/6 -- 1/3 | Clonebay | Unavoidable without blue options or losing all fuel |
 
 \* Ignores "nothing" outcomes, as they are irrelevant for evaluating risk vs. reward  
 ** Taking the Engi is "safe" because they replace any lost crew (but you might lose skills). "Save yourselves" is 100% safe  
