@@ -2,7 +2,7 @@
 
 # FTL event safety guide
 
-Events can kill crew, damage hull, or advance the Rebel fleet. The wiki has a useful [negative consequences](https://ftl.fandom.com/wiki/Category:Negative_Consequences) super-category page.
+Events can kill crew, damage hull, or advance the Rebel fleet. The wiki has a useful [negative consequences](https://ftl.fandom.com/wiki/Category:Events:_Risks_and_Hazards) super-category page.
 
 To reduce tedious wiki checks, here's a categorised guide. I've picked memorable phrases from each event. Sometimes the phrase is from your *choice* text.
 
